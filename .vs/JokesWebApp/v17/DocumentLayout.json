@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ICTC-Programmer\\Desktop\\web_dot_net\\JokesWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B37552-8E97-423E-843C-E3DA145EFD3C}|JokesWebApp\\JokesWebApp.csproj|c:\\users\\ictc-programmer\\desktop\\web_dot_net\\jokeswebapp\\jokeswebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6B37552-8E97-423E-843C-E3DA145EFD3C}|JokesWebApp\\JokesWebApp.csproj|solutionrelative:jokeswebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B37552-8E97-423E-843C-E3DA145EFD3C}|JokesWebApp\\JokesWebApp.csproj|c:\\users\\ictc-programmer\\desktop\\web_dot_net\\jokeswebapp\\jokeswebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6B37552-8E97-423E-843C-E3DA145EFD3C}|JokesWebApp\\JokesWebApp.csproj|solutionrelative:jokeswebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B37552-8E97-423E-843C-E3DA145EFD3C}|JokesWebApp\\JokesWebApp.csproj|c:\\users\\ictc-programmer\\desktop\\web_dot_net\\jokeswebapp\\jokeswebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6B37552-8E97-423E-843C-E3DA145EFD3C}|JokesWebApp\\JokesWebApp.csproj|solutionrelative:jokeswebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B37552-8E97-423E-843C-E3DA145EFD3C}|JokesWebApp\\JokesWebApp.csproj|c:\\users\\ictc-programmer\\desktop\\web_dot_net\\jokeswebapp\\jokeswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B37552-8E97-423E-843C-E3DA145EFD3C}|JokesWebApp\\JokesWebApp.csproj|solutionrelative:jokeswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ICTC-Programmer\\Desktop\\web_dot_net\\JokesWebApp\\JokesWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "JokesWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ICTC-Programmer\\Desktop\\web_dot_net\\JokesWebApp\\JokesWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "JokesWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T03:56:02.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ICTC-Programmer\\Desktop\\web_dot_net\\JokesWebApp\\JokesWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "JokesWebApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ICTC-Programmer\\Desktop\\web_dot_net\\JokesWebApp\\JokesWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "JokesWebApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T03:55:45.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ICTC-Programmer\\Desktop\\web_dot_net\\JokesWebApp\\JokesWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "JokesWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ICTC-Programmer\\Desktop\\web_dot_net\\JokesWebApp\\JokesWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "JokesWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T03:55:37.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ICTC-Programmer\\Desktop\\web_dot_net\\JokesWebApp\\JokesWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "JokesWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ICTC-Programmer\\Desktop\\web_dot_net\\JokesWebApp\\JokesWebApp\\Program.cs",
+              "RelativeToolTip": "JokesWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:52:25.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
